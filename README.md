@@ -1,0 +1,2 @@
+# resume
+ini resume dede 
